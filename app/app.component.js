@@ -14,7 +14,7 @@ let AppComponent = class AppComponent {
 AppComponent = __decorate([
     core_1.Component({
         selector: 'my-app',
-        template: '<h1>My First Angular 2 App, test</h1>'
+        template: '<h1>Data binding in Angular2</h1>'
     }), 
     __metadata('design:paramtypes', [])
 ], AppComponent);
